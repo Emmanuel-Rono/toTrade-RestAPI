@@ -4,7 +4,7 @@ package com.ronodev.toTrade_RestAPI.Model;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name="Tutorials")
+@Table()
 public class LearningTutorials {
 
     @Id
